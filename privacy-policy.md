@@ -1,0 +1,73 @@
+# BeatNote Privacy Policy
+
+Effective 9 November 2026. This policy covers the BeatNote iOS app and its TestFlight beta,
+provided by Galen Soh.
+
+## Audio and projects stay on your device
+
+BeatNote works without an account. Imported audio, markers, annotations, BPM analysis, waveform
+data, saved projects, drafts and preferences are processed and stored locally. BeatNote does not
+upload this content to a developer-operated server. It has no cloud sync or streaming-service integration.
+
+BeatNote copies imported audio into its own storage and excludes those managed audio copies from
+device backup. Keep your originals. Other local app data may be subject to your Apple device's
+backup settings. Exports saved outside BeatNote are managed by the destination you choose.
+
+## Diagnostics and advertising
+
+BeatNote has no separate product analytics service. Ads-off builds, including the accepted V1
+release, do not include an advertising SDK or developer-operated crash-reporting service.
+
+Explicitly identified ad-enabled beta builds use Google's AdMob and User Messaging Platform (UMP)
+to display banners and manage privacy choices. Test advertisements can still involve SDK data
+collection. Google may process IP-derived approximate location, device identifiers, ad impressions
+and clicks, app interactions, crash reports and performance/diagnostic information for advertising,
+measurement and service operation. BeatNote does not send your audio, song titles, markers,
+annotations or project files to Google as ad-request data. See
+[Google's privacy policy](https://policies.google.com/privacy) and
+[Google's advertising information](https://policies.google.com/technologies/ads).
+
+BeatNote enforces Google Limited Ads, disables publisher first-party IDs and does not request
+permission to access the advertising identifier. Limited Ads disable identifier-based personalized
+advertising and related measurement features. Google may still use limited device storage for fraud
+and invalid-traffic prevention. These restrictions remain in force regardless of the consent option
+you choose. Limited advertising still involves data processing. Where
+required, Google's consent form appears before ads can be requested. You can revisit required
+privacy choices in Settings → About → Ad privacy choices. Ad availability depends on those choices
+and the network. Pro removes banners; changing tier does not erase data previously processed by Google.
+
+Only an intentional tap on a banner opens an advertiser's destination. That destination has its own
+privacy practices. Google manages advertising/consent data under its policies; clearing BeatNote's
+local projects does not delete data held by Google. You can use Google's privacy controls and
+contact options for requests concerning its services.
+
+Apple may process TestFlight installation, usage, crash and feedback information and make some of
+it available to the developer under [Apple's TestFlight privacy notice](https://www.apple.com/legal/privacy/data/en/test-flight/).
+Apple's platform diagnostics are separate from BeatNote's own code.
+
+## Sharing and support
+
+When you export or share a project, you choose the receiving app or location. That service's own
+privacy practices apply. BeatNote does not send the export to the developer automatically.
+
+Opening a support or privacy link connects you to Telegram, your email provider or GitHub.
+Their privacy policies apply to their services. If you contact support, the developer receives
+the contact details, message and attachments you choose to send and uses them to respond and
+investigate your report. Telegram group messages may be visible to other members; do not post
+private audio, personal information or confidential project content there.
+
+## Deleting your data
+
+Use Settings → Data Management to remove imported audio, saved projects, derived caches or all
+BeatNote data. Uninstalling the app removes its local container. These actions do not delete your
+original audio, exports in other apps, backups or messages sent through support services.
+
+For support-message deletion requests, contact [gswm98@gmail.com](mailto:gswm98@gmail.com).
+Support correspondence is retained only as needed to resolve and follow up on the request or
+meet applicable obligations. Messages held by third-party services follow their retention policies.
+
+## Changes and contact
+
+This policy will be updated before introducing materially different data practices. The effective
+date above identifies this version. For questions, email [gswm98@gmail.com](mailto:gswm98@gmail.com)
+or visit the [BeatNote support page](support.md).
