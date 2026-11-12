@@ -1,7 +1,6 @@
 # BeatNote Privacy Policy
 
-Effective 9 November 2026. This policy covers the BeatNote iOS app and its TestFlight beta,
-provided by Galen Soh.
+Effective 12 November 2026. This policy covers the BeatNote mobile app and its beta and test builds, including iOS and Android. BeatNote is provided by Galen Soh.
 
 ## Audio and projects stay on your device
 
@@ -10,8 +9,7 @@ data, saved projects, drafts and preferences are processed and stored locally. B
 upload this content to a developer-operated server. It has no cloud sync or streaming-service integration.
 
 BeatNote copies imported audio into its own storage and excludes those managed audio copies from
-device backup. Keep your originals. Other local app data may be subject to your Apple device's
-backup settings. Exports saved outside BeatNote are managed by the destination you choose.
+device backup. Keep your originals. Other local app data may be included in device backups, depending on your platform and backup settings. Exports saved outside BeatNote are managed by the destination you choose.
 
 ## Diagnostics and advertising
 
@@ -41,9 +39,7 @@ privacy practices. Google manages advertising/consent data under its policies; c
 local projects does not delete data held by Google. You can use Google's privacy controls and
 contact options for requests concerning its services.
 
-Apple may process TestFlight installation, usage, crash and feedback information and make some of
-it available to the developer under [Apple's TestFlight privacy notice](https://www.apple.com/legal/privacy/data/en/test-flight/).
-Apple's platform diagnostics are separate from BeatNote's own code.
+Your device platform or beta distribution service may process installation, usage, crash and feedback information according to its privacy notice and your settings. It may make some of this information available to the developer. For TestFlight, see [Apple's TestFlight privacy notice](https://www.apple.com/legal/privacy/data/en/test-flight/).
 
 ## Sharing and support
 
