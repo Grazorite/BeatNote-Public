@@ -1,6 +1,6 @@
 # BeatNote Privacy Policy
 
-Effective 12 November 2026. This policy covers the BeatNote mobile app and its beta and test builds, including iOS and Android. BeatNote is provided by Galen Soh.
+Effective 13 November 2026. This policy covers the BeatNote mobile app and its beta and test builds, including iOS and Android. BeatNote is provided by Galen Soh.
 
 ## Audio and projects stay on your device
 
@@ -10,6 +10,29 @@ upload this content to a developer-operated server. It has no cloud sync or stre
 
 BeatNote copies imported audio into its own storage and excludes those managed audio copies from
 device backup. Keep your originals. Other local app data may be included in device backups, depending on your platform and backup settings. Exports saved outside BeatNote are managed by the destination you choose.
+
+## Purchases and subscriptions
+
+Billing-enabled builds use Apple App Store or Google Play billing and RevenueCat to provide Pro
+subscriptions. RevenueCat creates a random app-user identifier and processes purchase records,
+subscription status, product identifiers, transaction dates, storefront/currency information and
+app/platform information to validate purchases, restore access, prevent fraud and provide subscription
+reporting to the developer. This processing can start when a billing-enabled app opens, before a purchase.
+BeatNote does not send RevenueCat your audio, song titles, annotations, markers or project files.
+We do not provide RevenueCat with your name, email, advertising identifier or custom profile attributes.
+
+Payments and payment details are handled by your app store; BeatNote and RevenueCat do not receive
+your full card details. Subscription processing is not used by BeatNote to track you across other
+companies' apps for advertising. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy/)
+and your store's privacy information.
+
+You can restore purchases or manage your subscription from the Pro page. Restore uses your current
+store account; purchases are not automatically shared between Apple and Google accounts.
+Deleting local BeatNote data or uninstalling the app does not cancel a subscription or delete
+store/RevenueCat transaction records. Manage cancellation through your store. Contact the developer
+at [gswm98@gmail.com](mailto:gswm98@gmail.com) for subscription-data requests; relevant records may
+need to be retained for purchase validation, fraud prevention or applicable legal obligations.
+Internal preview builds with billing disabled do not initialize RevenueCat.
 
 ## Diagnostics and advertising
 
@@ -67,3 +90,4 @@ meet applicable obligations. Messages held by third-party services follow their 
 This policy will be updated before introducing materially different data practices. The effective
 date above identifies this version. For questions, email [gswm98@gmail.com](mailto:gswm98@gmail.com)
 or visit the [BeatNote support page](support.md).
+
